@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/chhammadkhaliq1" target="blank"><img src="https://img.shields.io/twitter/follow/chhammadkhaliq1?logo=twitter&style=for-the-badge" alt="chhammadkhaliq1" /></a> </p>
 
-- 🔭 I’m currently working on **Azure DevOps, Jenkins and Docker**
+- 🔭 I’m currently working on **AWS, Azure DevOps, Jenkins and Docker**
 
-- 🌱 I’m currently learning **DevOps and Microsoft Azure Cloud Services**
+- 🌱 I’m currently learning **DevOps and Amazon Web Services (AWS) Cloud Services**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
