@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammad Khaliq</h1>
-<h3 align="center">A young and passionate enthusiast skilled in DevOps and Cloud Computing. Well-acquainted with Cloud services in Amazon Web Services(AWS), Microsoft Azure, and DevOps.</h3>
+<h3 align="center">A young, student, and passionate enthusiast learning DevOps and Cloud Computing. I am an AWS Certified Cloud Practitioner and talented Student who relishes cracking elusive problems and has 1+ years of experience in implementing CI/CD pipelines using DevOps Tools, Working on Linux and Automation Tools, and having experience in building infrastructure in AWS Cloud using Cloudformation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadkhaliq566&label=Profile%20views&color=0e75b6&style=flat" alt="hammadkhaliq566" /> </p>
 
