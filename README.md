@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS Services, Git, Jenkins, Docker, Kubernetes and Terraform**
 
-- 🌱 I’m currently learning **DevOps and Amazon Web Services (AWS) Cloud Services**
+- 🌱 I’m currently learning **DevOps and Amazon Web Services (AWS)**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
