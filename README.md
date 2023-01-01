@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammad Khaliq</h1>
-<h3 align="center">A young, student, and passionate enthusiast learning DevOps and Cloud Computing. I am an AWS Certified Cloud Practitioner and talented Student who relishes cracking elusive problems and has 1+ years of experience in implementing CI/CD pipelines using DevOps Tools, Working on Linux and Automation Tools, and having experience in building infrastructure in AWS Cloud using Cloudformation.</h3>
+<h3 align="center">I am an AWS Cloud Architect and DevOps Engineer. I have a strong background in cloud computing and a passion for designing and building scalable, secure, and reliable infrastructure. As an AWS Certified Cloud Practitioner, I have a strong understanding of the core AWS services and am committed to staying up-to-date with the latest technologies in the Cloud Computing and DevOps space. I have extensive experience working with Infrastructure as Code using AWS CloudFormation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadkhaliq566&label=Profile%20views&color=0e75b6&style=flat" alt="hammadkhaliq566" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chhammadkhaliq1" target="blank"><img src="https://img.shields.io/twitter/follow/chhammadkhaliq1?logo=twitter&style=for-the-badge" alt="chhammadkhaliq1" /></a> </p>
 
-- 🔭 I’m currently working on **AWS, Azure DevOps, Jenkins and Docker**
+- 🔭 I’m currently working on **AWS Services, Git, Jenkins, Docker, Kubernetes and Terraform**
 
 - 🌱 I’m currently learning **DevOps and Amazon Web Services (AWS) Cloud Services**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
-
-- 🤝 I’m looking for help with **Jenkins, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hammadkhaliq566](https://github.com/hammadkhaliq566)
 
