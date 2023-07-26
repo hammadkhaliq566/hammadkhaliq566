@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammad Khaliq</h1>
-<h3 align="center">Experienced DevOps Engineer with extensive hands-on experience in configuring, supporting, automating, and deploying cloud infrastructures and services in AWS Cloud. With a strong focus on containerization, CI/CD, and Infrastructure as Code (IaC), I leverage cutting-edge tools such as Kubernetes, Docker, Jenkins, Terraform, AWS CloudFormation, AWS Developer Tools, and other DevOps technologies to deliver exceptional results for clients.
-
-My passion for learning new IT technologies and Cloud best practices is unmatched, and I am confident working independently or as part of a team to achieve desired outcomes.</h3>
+<h3 align="center">Passionate DevOps Engineer with extensive hands-on experience in configuring, supporting, automating, and deploying cloud infrastructures and services in AWS Cloud. With a strong focus on containerization, CI/CD, and Infrastructure as Code (IaC), I leverage cutting-edge tools such as Kubernetes, Docker, Jenkins, Terraform, AWS CloudFormation, AWS Developer Tools, and other DevOps technologies to deliver exceptional results for clients. My passion for learning new IT technologies and Cloud best practices is unmatched, and I am confident working independently or as part of a team to achieve desired outcomes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadkhaliq566&label=Profile%20views&color=0e75b6&style=flat" alt="hammadkhaliq566" /> </p>
 
